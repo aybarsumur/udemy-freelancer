@@ -5,7 +5,7 @@
 
 Tasarım Görseli :sunglasses:
 
-![Ekran Resmi](/img/udemy-st-html-css.jpg)
+![Ekran Resmi](./docs/img/udemy-st-html-css.jpg)
 
 ## About Project
 Bu repo, [Udemy / Sadık Turan - (120+ Saat) Komple Uygulamalı Web Geliştirme Eğitiminde](https://www.udemy.com/course/komple-web-developer-kursu/) oluşturduğum html ve css bölüm sonu çalışmam.
