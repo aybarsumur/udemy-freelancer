@@ -1,7 +1,9 @@
 # Udemy - Komple Uygulamalı Web Geliştirme Eğitimi 
 ## Html - Css Bölüm Sonu Çalışması
 
-Tasarım Görseli
+## [Freelancer Website](https://aybarsumur.github.io/udemy-freelancer/) :point_left: 
+
+Tasarım Görseli :sunglasses:
 
 ![Ekran Resmi](./docs/img/udemy-st-html-css.jpg)
 
